@@ -1,0 +1,9 @@
+---
+plugins:
+  - jekyll-paginate
+exclude: ['Rakefile', 'README.markdown', 'Gemfile', 'Gemfile.lock']
+growl: true
+paginate: 5
+permalink: pretty
+rouge: true
+show-tags: true

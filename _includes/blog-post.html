@@ -1,0 +1,36 @@
+{% include blog-nav.html %}
+
+<article class="blog-post">
+<header class="blog-meta">
+<time class="blog-date" datetime="{{ post.date | date: "%Y-%m-%d" }}" pubdate="pubdate">
+{{ post.date | date: "%b %d, %Y" }}
+</time>
+<h1>{{ post.title }}</h1>
+</header>
+
+{% if site.show-tags %}
+    <div class="tags">
+        {% for tag in page.tags %}
+            <!-- CHANGE ONLY THIS LINE --> <a class="tag" href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><span class="tag">{{ tag }}</span></a> 
+        {% endfor %}
+    </div>
+{% endif %}
+
+{% comment %}
+<!-- Try to detect if we are on the blog listing page or just a post -->
+{% endcomment %}
+
+{% if content %}
+{{ content }}
+{% else %}
+{{ post.content }}
+{% endif %}
+
+</article>
+
+{% include blog-nav.html %}
+
+{% if site.env != "dev" %}
+{% include disqus.html %}
+{% endif %}
+
