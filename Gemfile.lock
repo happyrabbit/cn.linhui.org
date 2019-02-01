@@ -66,10 +66,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.7.4)
+  ffi (>= 1.9.24)
+  jekyll (>= 3.7.4)
   jekyll-paginate (= 1.1.0)
   less (= 1.2.21)
   rake
 
 BUNDLED WITH
-   1.16.1
+   2.0.1
