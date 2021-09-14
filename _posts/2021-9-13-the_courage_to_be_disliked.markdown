@@ -6,7 +6,7 @@ time: '11:32'
 
 
 <p align="center">
-  <img src="/images/courage.png"  width="60%" />
+  <img src="/images/courage.png"  />
 </p>
 
 这是我两年前读的书，但是拖到今年才写完读书笔记。
