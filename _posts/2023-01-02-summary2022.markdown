@@ -1,0 +1,94 @@
+---
+layout: post
+title: 2️⃣0️⃣2️⃣2️⃣ 年终总
+time: '19:16'
+---
+
+# 2️⃣0️⃣2️⃣2️⃣ 年终总结
+
+2022过的感觉像是囫囵吞枣，还没有尝出滋味就过去了，对于过去这一年我都做了什么，我得狠狠的想才有那么一缕游魂般的头绪，然后熊先生一喊，立刻就吓跑不见了。其实两周前我就在叨，要写年终总结了，今年得在新年前写完，但这篇总结还是毫无悬念的拖到下一年。
+
+当然，这完全不是我的错，都怪那会[异星工厂](https://www.factorio.com/)([Factorio](https://store.steampowered.com/app/427520/Factorio/?l=schinese))，[仙剑7](https://www.notion.so/Writing-and-teaching-286491412abf439794c79ecc23994905)([Sword and Fairy 7](https://www.notion.so/Writing-and-teaching-286491412abf439794c79ecc23994905))，[全面战争：三国](https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/) （[Total War: THREE KINGDOMS](https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/)）和[文明VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)（[Sid Meier’s Civilization® VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)）都在打折！[文明VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)居然丧心病狂到打1折，让我完全没有办法不下手。
+
+异星工厂在熊先生和我日以继夜的努力下通关了，仙剑7还没有。想想我得对自己多狠，才能丢下还没有通关的仙剑7，以及还在等待我临幸的 [全面战争：三国](https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/) 和[文明VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)，老老实实的坐在电脑前写总结。想到这里，我忍不住表扬了一下自己。
+
+扪心自问，我已经看不到那个努力上进的女青年了。前些天我还和熊先生感慨和他在一起这些年，受他影响很大，曾经那股卷王的劲原来那么不堪一击，像个大气球，熊先生懒洋洋的用根针随便那么一戳，就没有了。熊先生很深沉的回了一句，“这才是生活该有的样子。”我并不同意。我现在觉得人生没有一个标准答案的活法，上进有上进的收获，堕落有堕落的快乐，我感谢过去上进的自己，也喜欢现在的自己，只是不同，而非对错。
+
+对于2022年更具体的总结，或许分块回想更容易有头绪。我打算分成职业，生活，读书三个部分。
+
+## 职业
+
+去年底入职现在的公司，精神抖擞的工作到2022年5月，然后纽约团建，包吃包住豪华5日游之后鸡血打满，这是今年职业的第一个高潮。回来后满血奋斗到7月，公司冷不丁的宣布裁员10%，之后一个月在“**思考如何躺平摆烂等下一波裁员拿离职包裹”**和“**努力提高自身技能靠着身揣绝技闯天下的豪情壮志之间”**辗转，怀疑工作除了混饭吃以外的意义。
+
+一个月以后有一些好转，或者更准确的说是有一点麻木。想来想去想不到答案，于是索性不想，只是着眼当下。兢兢业业的又工作了两个月，期间参加了[JSM2022](https://ww2.amstat.org/meetings/jsm/2022/)，主持了的一个以量化市场营销为主题的报告会。10月份在公司的[Unite 2022 Toronto做了个报告](https://www.youtube.com/watch?v=UsU3hCeIYis)。之后新冠阳了，卧床两周。
+
+回来后11月硅谷科技公司就开始了新一轮狗血的裁员，我司7月份那次**公开10%裁员**之后没有再次大规模的动作，加上我有个好老板，个人的工作在最后这个季度并没有受太大影响。回顾职业生涯，除了那家创业公司，着实让人难以忍受外，对其他的东家，我都满怀感激。可能也是我的第一份工作的老板和同事人太好，没有给我体验江湖的险恶的机会，之后在[Netlify](https://www.netlify.com/)的两年不可避免的要接受生活的毒打，所以出来混，总是要还的。太顺利不见得都好，这让我想起爸爸的话，“[遇到困难的时候应该感到幸福](https://linhui.org/2018/01/01/freewillconundrum2/)。“离开Netlify之后，我对职业上遇到的好人更加充满感激。
+
+下半年科技行业这么一闹腾，让很多人感觉到科技公司文化的变化。很多公司的大变动，外界新闻往往比内部消息更快更准。之前硅谷精英忧国忧民为天下的人设在迅速崩塌，权威的本能和蔑视小人物的本性比之前的人设更容易保持。最近看到一句让我感受很深的话：
+
+> People get worse as they grow older because they become more like themselves.
+
+该如何优雅的变老？这是新的一年我需要多思考的问题。
+
+工作之外的事情今年折腾的不是很多。
+
+- 在San Francisco State University给了一个一天的[数据科学实战](https://course2022.scientistcafe.com/course-syllabus/)的培训。部分视频整理上传在这个[YouTube专辑里](https://www.youtube.com/watch?v=RSNCaC1xrbs&list=PLrxpaVil9qi_2JfpnYbsmuTKPgf4m8qKC)。
+- 编辑突然在年底给我们说[英文书](https://scientistcafe.com/ids/)评审通过可以出版了，所以又花了些时间折腾更新了一次。文稿已经发给编辑了。python的代码还需要更新，由于调用的一些包和函数的变化，好多代码都没法重复运行。好在这不影响书的正文，可以和文字编辑同步。我一直想要慢慢的再用中文写一遍，边写边更新，以博客文章的形式发。写书的周期实在太长了，中途基本没有反馈，感觉这样的过程太痛苦，很难坚持。
+- 今年上半年录制了几个职业相关的视频。
+    - **[科学家咖啡馆1：数据内卷？过去一年我关于职业和生活的5个思考](https://scientistcafe.com/2022/01/31/5things2022.html)**
+    - **[科学家咖啡馆2：什么是数据科学？](https://scientistcafe.com/2022/02/06/whatisds.html)**
+    - **[科学家咖啡馆3：如何区分数据科学的不同职位？](https://scientistcafe.com/2022/02/11/ds_title)**
+    - **[科学家咖啡馆4：数据科学的组织方式](https://scientistcafe.com/2022/02/20/ds_structure)**
+    - **[科学家咖啡馆5：数据内卷，数据科学劝退指南？](https://scientistcafe.com/2022/03/27/ds_involution)**
+    
+    后来就不了了之了。倒是积攒了一堆想要讲的话题，也写了一些，但就是懒的录制和剪辑视频。有一些关于职业的分享涉及之前的东家，终归有所顾虑，不太想公开讲。我想分享真实的经验和见解，不想遮遮掩掩的，所以索性就没有讲。
+    
+    还有一个原因是想和熊先生一起做视频，但他做不了中文视频，所以我无法决定是做中文的还是英文的。加上熊先生好吃偶尔懒做的性格，做视频也就一直是墙上的饼，游戏玩了一个又一个，这个饼还在墙上，然后一晃，就2023年啦。
+    
+
+## 生活
+
+这一年的生活挺简单。
+
+- 大部分不工作的时间和熊先生在一起。
+- 大部分和熊先生在一起的时候都是宅家。
+- 所以大部分的生活就是宅家。
+
+今年基本已经刷完所有想看的剧，这里给剧排个名：
+
+1. [House of the Dragon](https://en.wikipedia.org/wiki/House_of_the_Dragon)：权斗剧情实在是太精彩了，台词也很经典。我没有看过书，之前也没有关心过game of thrones，但是看完这部剧后又回头把所有[Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones) 的剧都刷了一遍。之前的到最后几季开始烂尾，结局实在是太烂了。但大部分还是精彩的。
+2. [Last Week Tonight with John Oliver](https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver)：这是我和熊先生长追的一部脱口秀。主持人用嘲讽的方式讨论每周的新闻。
+3. **[The Mandalorian](https://en.wikipedia.org/wiki/The_Mandalorian_(season_3))：**Grogu实在太可爱了，就冲他我也会追下去。
+4. ***[The Book of Boba Fett](https://en.wikipedia.org/wiki/The_Book_of_Boba_Fett)：我觉得这部片值得一看，我喜欢故事的情节。***Boba Fett的演员实在是太不养眼，但这更说明了剧情真的不错，演员这么不养眼都想继续追下去。对打斗的部分不要抱过高的期望，重点是剧情和台，还有最后出现的Grogu，萌的不要不要的。
+5. [Extraordinary Attorney Woo](https://en.wikipedia.org/wiki/Extraordinary_Attorney_Woo)：前几集感觉很好看，后半部分没有耐心看下去。但这是今年比较不错的韩剧。
+6. ***[Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things)：***不确定之后出新还会不会继续追，感觉这个剧要开始烂尾了
+
+到了快年底的时候，我们已经弃剧转看一些短小的YouTube纪录片，大部分是关于城市设计尤其是步行友好性（walkability）。在追的几个感觉不错的频道：
+
+- **[Not Just Bikes](https://www.youtube.com/@NotJustBikes)**
+- **[Strong Towns](https://www.youtube.com/@strongtowns)**
+- 还有一些不错的TED演讲，比如这个：[7 principles for building better cities](https://www.youtube.com/watch?v=IFjD3NMv6Kw)。搜索“walkability” 或者“urban design”可以找到很多有趣的相关题材。
+
+我和熊先生打算在新的一年继续了解相关的研究，希望能写个总结。在这个过程中我感觉学习了很多新的东西，对居住环境对人的影响有更深的了解。
+
+虽然大部分时间宅在家，我们偶尔也有出去浪的时候。10月份和朋友一起租了个房车到Yosemite玩了一周，野营，篝火，把酒谈心，快乐满足，这是今年的高光时刻。感恩节和朋友一起Pizza Party，偶尔和朋友咖啡，早茶或者约饭。
+
+# 读书
+
+2022年让我印象深刻的书。
+
+- Stoicism： [A guide to the good life](https://hui1987.com/a-guide-to-the-good-life.html)， [Stoic Classics Collection](https://www.amazon.com/Stoic-Classics-Collection-Meditations-Enchiridion/dp/B09B1TYKPY/ref=asc_df_B09B1TYKPY/?tag=hyprod-20&linkCode=df0&hvadid=532779770075&hvpos=&hvnetw=g&hvrand=2663837887222332223&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060440&hvtargid=pla-1394857773518&psc=1)， [Musonius Rufus](https://www.amazon.com/Musonius-Rufus-Lectures-Cynthia-King/dp/145645966X/ref=asc_df_145645966X/?tag=hyprod-20&linkCode=df0&hvadid=353812732445&hvpos=&hvnetw=g&hvrand=8601193339817701879&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060440&hvtargid=pla-445756057910&psc=1&tag=&ref=&adgrpid=78235181744&hvpone=&hvptwo=&hvadid=353812732445&hvpos=&hvnetw=g&hvrand=8601193339817701879&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060440&hvtargid=pla-445756057910)
+    
+    今年集中读了一些关于斯多葛哲学（Stoicism）的书。先是重读了[A guide to the good life](https://hui1987.com/a-guide-to-the-good-life.html)（William B. Irvine著），这本书用更接近现代生活的方式总结了斯多葛哲学的主要思想，并且分享了作者自己的经验，提出了一些实际的操作建议。这是一本很好的斯多葛哲学的入门书。之后读了几个斯多葛著名哲学家的原著，感觉零碎的多，没有后人总结的系统性。
+    
+- [The price we pay](https://www.amazon.com/Price-We-Pay-American-Care/dp/1635574110)：这本书介绍了美国腐败破碎的医疗系统，个人觉得这本书对于不了解美国医疗的新移民真的是太实用了。
+- [Welcome to your world](https://www.amazon.com/Welcome-Your-World-Environment-Shapes/dp/0062996045/ref=sr_1_1?crid=1PDJYFQS02TWU&keywords=Welcome+to+your+world&qid=1672771071&s=books&sprefix=welcome+to+your+world%2Cstripbooks%2C161&sr=1-1)：这本书探索建设环境如何影响我们的情绪，认知和幸福。当前的城市设计存在哪些问题，我们应该如何设计和改造身处的世界。也是这本书让我开始查阅更多关于城市设计的资料，希望在新的一年对这个主题有更深入的了解。看了这本书，我特别想去学设计，但这或许只是一时心血来潮。
+- [Ethics for the New Millennium](https://www.amazon.com/Ethics-New-Millennium-Dalai-Lama/dp/1573228834/ref=sr_1_1?keywords=ethics+for+the+new+millennium+dalai+lama&qid=1672772560&s=books&sprefix=ethics+for+the+new+mille%2Cstripbooks%2C124&sr=1-1)：在这本书中，达赖喇嘛提出了一个基于普遍原则而非宗教原则的道德体系。它的最终目标是每个人的幸福，不论宗教信仰如何。他刻意的避开佛教的限定，而是用更普世的语言引导每一个人。根据达赖喇嘛的说法，我们的生存一直依赖，并将继续依赖于我们的基本善良。这本书在精神上对我有很大的帮助。
+
+关于个人知识管理，我还是在用很多年前的[管理方法](https://linhui.org/2016/04/10/pkm1/)。在此基础上，利用年末假期的时间设计了一个新的个人管理系统，把知识管理纳入个人管理的一部分。这是新的个人管理的总体构架，我用notion相应的设置了数据库，用链接数据库的方式保证各部分的追踪和更新。这个构架还比较新，需要的使用的过程中改进，这里就不细讲了，以后用另外的篇幅详细整理一下，也有助于自己总结反思。
+
+<p align="center">
+![Screen Shot 2023-01-03 at 10.45.27 AM.png](http://linhui.org/images/posts/pms2022.png)
+</p>
+
+之前脑子一片空白，现在居然洋洋洒洒的记了这么一篇流水账。关于2023，我还需要花些时间想想。早在好几年前我就[不打算列什么新年目标了](https://linhui.org/2018/12/30/unknownunknown/)，个人历史告诉我列了不出意外也完不成，徒增烦恼。但是有一些事情我需要借着新年这个精神气足的时候认真想想。
