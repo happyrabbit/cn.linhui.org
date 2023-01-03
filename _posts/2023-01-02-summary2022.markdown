@@ -8,7 +8,7 @@ time: '19:16'
 
 当然，这完全不是我的错，都怪那会[异星工厂](https://www.factorio.com/)([Factorio](https://store.steampowered.com/app/427520/Factorio/?l=schinese))，[仙剑7](https://www.notion.so/Writing-and-teaching-286491412abf439794c79ecc23994905)([Sword and Fairy 7](https://www.notion.so/Writing-and-teaching-286491412abf439794c79ecc23994905))，[全面战争：三国](https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/) （[Total War: THREE KINGDOMS](https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/)）和[文明VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)（[Sid Meier’s Civilization® VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)）都在打折！[文明VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)居然丧心病狂到打1折，让我完全没有办法不下手。
 
-异星工厂在熊先生和我日以继夜的努力下通关了，仙剑7还没有。想想我得对自己多狠，才能丢下还没有通关的仙剑7，以及还在等待我临幸的 [全面战争：三国](https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/) 和[文明VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)，老老实实的坐在电脑前写总结。想到这里，我忍不住表扬了一下自己。
+异星工厂在熊先生和我日以继夜的努力下通关了，仙剑7还没有。想想我得对自己多狠，才能丢下还没有通关的以及还在等待我临幸的游戏，老老实实的坐在电脑前写总结。想到这里，我忍不住表扬了一下自己。
 
 扪心自问，我已经看不到那个努力上进的女青年了。前些天我还和熊先生感慨和他在一起这些年，受他影响很大，曾经那股卷王的劲原来那么不堪一击，像个大气球，熊先生懒洋洋的用根针随便那么一戳，就没有了。熊先生很深沉的回了一句，“这才是生活该有的样子。”我并不同意。我现在觉得人生没有一个标准答案的活法，上进有上进的收获，堕落有堕落的快乐，我感谢过去上进的自己，也喜欢现在的自己，只是不同，而非对错。
 
@@ -31,7 +31,7 @@ time: '19:16'
 工作之外的事情今年折腾的不是很多。
 
 - 在San Francisco State University给了一个一天的[数据科学实战](https://course2022.scientistcafe.com/course-syllabus/)的培训。部分视频整理上传在这个[YouTube专辑里](https://www.youtube.com/watch?v=RSNCaC1xrbs&list=PLrxpaVil9qi_2JfpnYbsmuTKPgf4m8qKC)。
-- 编辑突然在年底给我们说[英文书](https://scientistcafe.com/ids/)评审通过可以出版了，所以又花了些时间折腾更新了一次。文稿已经发给编辑了。python的代码还需要更新，由于调用的一些包和函数的变化，好多代码都没法重复运行。好在这不影响书的正文，可以和文字编辑同步。我一直想要慢慢的再用中文写一遍，边写边更新，以博客文章的形式发。写书的周期实在太长了，中途基本没有反馈，感觉这样的过程太痛苦，很难坚持。
+- 编辑突然在年底给我们说[数据科学实战的书](https://scientistcafe.com/ids/)评审通过可以出版了，所以又花了些时间折腾更新了一次。文稿已经发给编辑了。python的代码还需要更新，由于调用的一些包和函数的变化，好多代码都没法重复运行。好在这不影响书的正文，可以和文字编辑同步。我一直想要慢慢的再用中文写一遍，边写边更新，以博客文章的形式发。写书的周期实在太长了，中途基本没有反馈，感觉这样的过程太痛苦，很难坚持。
 - 今年上半年录制了几个职业相关的视频。
     - **[科学家咖啡馆1：数据内卷？过去一年我关于职业和生活的5个思考](https://scientistcafe.com/2022/01/31/5things2022.html)**
     - **[科学家咖啡馆2：什么是数据科学？](https://scientistcafe.com/2022/02/06/whatisds.html)**
@@ -57,7 +57,7 @@ time: '19:16'
 1. [House of the Dragon](https://en.wikipedia.org/wiki/House_of_the_Dragon)：权斗剧情实在是太精彩了，台词也很经典。我没有看过书，之前也没有关心过game of thrones，但是看完这部剧后又回头把所有[Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones) 的剧都刷了一遍。之前的到最后几季开始烂尾，结局实在是太烂了。但大部分还是精彩的。
 2. [Last Week Tonight with John Oliver](https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver)：这是我和熊先生长追的一部脱口秀。主持人用嘲讽的方式讨论每周的新闻。
 3. **[The Mandalorian](https://en.wikipedia.org/wiki/The_Mandalorian_(season_3))：**Grogu实在太可爱了，就冲他我也会追下去。
-4. ***[The Book of Boba Fett](https://en.wikipedia.org/wiki/The_Book_of_Boba_Fett)：我觉得这部片值得一看，我喜欢故事的情节。***Boba Fett的演员实在是太不养眼，但这更说明了剧情真的不错，演员这么不养眼都想继续追下去。对打斗的部分不要抱过高的期望，重点是剧情和台，还有最后出现的Grogu，萌的不要不要的。
+4. ***[The Book of Boba Fett](https://en.wikipedia.org/wiki/The_Book_of_Boba_Fett)：我觉得这部片值得一看，我喜欢故事的情节。***Boba Fett的演员实在是太不养眼，但这更说明了剧情真的不错，演员这么不养眼都想继续追下去。对打斗的部分不要抱过高的期望，重点是剧情和台词，还有最后出现的Grogu，萌的不要不要的。
 5. [Extraordinary Attorney Woo](https://en.wikipedia.org/wiki/Extraordinary_Attorney_Woo)：前几集感觉很好看，后半部分没有耐心看下去。但这是今年比较不错的韩剧。
 6. ***[Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things)：***不确定之后出新还会不会继续追，感觉这个剧要开始烂尾了
 
