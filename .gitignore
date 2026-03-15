@@ -1,0 +1,10 @@
+_site/
+.jekyll-cache/
+.DS_Store
+.Rhistory
+*.gem
+*.rbc
+.bundle/
+vendor/
+.sass-cache/
+.jekyll-metadata
