@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem "jekyll", ">= 3.7.4"
 gem 'less', '=1.2.21'
