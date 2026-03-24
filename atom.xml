@@ -5,23 +5,24 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Hey : )</title>
- <link href="http://hui.us.com/atom.xml" rel="self"/>
- <link href="http://hui.us.com/"/>
+ <link href="https://cn.linhui.org/atom.xml" rel="self"/>
+ <link href="https://cn.linhui.org/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>hhttp://hui.us.com</id>
+ <id>https://cn.linhui.org</id>
  <author>
    <name>Hui Lin</name>
-   <email>hlin@iastate.edu</email>
+   <email>longqiman@gmail.com</email>
  </author>
- 
+
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://hui.us.com{{ post.url }}"/>
+   <link href="https://cn.linhui.org{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://hui.us.com{{ post.id }}</id>
+   <id>https://cn.linhui.org{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
+
  
 </feed>
